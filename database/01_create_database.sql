@@ -1,0 +1,2 @@
+CREATE DATABASE db_sistem_informasi_absensi_mahasiswa;
+USE db_sistem_absensi_mahasiswa;
